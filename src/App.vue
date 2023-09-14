@@ -47,7 +47,7 @@ export default {
         title: "info",
         content: "this is success content",
       },()=>{
-        console.log("打开了success,调用success函数");
+        console.log("打开了successe,调用success函数");
       });
     },
     openDangerMessageBox() {
